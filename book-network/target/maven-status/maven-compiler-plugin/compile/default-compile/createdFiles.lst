@@ -1,0 +1,5 @@
+com/alibou/book/security/JwtFilter.class
+com/alibou/book/common/PageResponse.class
+com/alibou/book/feedback/FeedbackRequest.class
+com/alibou/book/BookNetworkApiApplication.class
+com/alibou/book/exception/ActivationTokenException.class
